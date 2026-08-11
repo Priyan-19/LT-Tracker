@@ -2,7 +2,7 @@
 
 ## Batch 2023 - 2027
 
-| Roll No | Name | Repo URL | Leetcode URL | Current Status | Public Repos |
+| S No | Name | Repo URL | Leetcode URL | Current Status | Public Repos |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | BARANI KUMAR S N | [Github](https://github.com/BaraniKumar25) | [Leetcode](https://github.com/BaraniKumar25/Leetcode) | [![](https://leetcard.jacoblin.cool/Barani_Kumar_S_N)](https://leetcode.com/u/Barani_Kumar_S_N/) | [![](https://raw.githubusercontent.com/BaraniKumar25/github-badge/main/github-repo-count.svg)](https://github.com/BaraniKumar25) |
 | 3 | DHARUN S K | [Github](https://github.com/sktharunn-jpg) | [Leetcode](https://github.com/sktharunn-jpg/Leetcode) | [![](https://leetcard.jacoblin.cool/DHARUNSK)](https://leetcode.com/u/DHARUNSK) | [![](https://raw.githubusercontent.com/sktharunn-jpg/github-badge/main/github-repo-count.svg)](https://github.com/sktharunn-jpg) |
